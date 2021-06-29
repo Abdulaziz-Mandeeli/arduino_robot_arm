@@ -29,5 +29,13 @@
 
 ثالثا:
 
-الان يمكننا تشغيل الباكج باستعمال الاكواد
+الان يمكننا تشغيل الباكج باستعمال الاكوادالتالية
+
+	$ roslaunch robot_arm_pkg check_motors.launch
+	$ roslaunch robot_arm_pkg check_motors_gazebo.launch
+
+![image](https://user-images.githubusercontent.com/85806841/123834878-90faed00-d910-11eb-8009-56af3b40c642.png)
+![image](https://user-images.githubusercontent.com/85806841/123833637-3c0aa700-d90f-11eb-9ca1-bc9e98c03694.png)
+
+
 
