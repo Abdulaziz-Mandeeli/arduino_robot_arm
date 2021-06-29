@@ -37,5 +37,8 @@
 ![image](https://user-images.githubusercontent.com/85806841/123834878-90faed00-d910-11eb-8009-56af3b40c642.png)
 ![image](https://user-images.githubusercontent.com/85806841/123833637-3c0aa700-d90f-11eb-9ca1-bc9e98c03694.png)
 
+Gazeboo والكود الثاني لتشغيل المحاكي
 
+![image](https://user-images.githubusercontent.com/85806841/123835929-cc49eb80-d911-11eb-8445-30331c75670d.png)
 
+ctl+C واذا اردنا الخروج نضغط في التريمينال
