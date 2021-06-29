@@ -42,3 +42,12 @@ Gazeboo والكود الثاني لتشغيل المحاكي
 ![image](https://user-images.githubusercontent.com/85806841/123835929-cc49eb80-d911-11eb-8445-30331c75670d.png)
 
 ctl+C واذا اردنا الخروج نضغط في التريمينال
+
+
+وهذا الكود في حالة اردنا استخدامه مع محاكي الحركة
+movit.rviz
+
+	$ roslaunch moveit_pkg demo.launch
+
+![image](https://user-images.githubusercontent.com/85806841/123839533-e5ed3200-d915-11eb-9df0-61bb065c63d9.png)
+
